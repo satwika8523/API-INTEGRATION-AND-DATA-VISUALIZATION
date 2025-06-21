@@ -128,4 +128,5 @@ And a bar chart with three bars showing Temperature, Feels Like temperature, and
 📌Summary This program effectively: Connects to an external API to get live data.Parses JSON weather data.Visualizes temperature and humidity parameters in an easy-to-understand bar chart.Such automation can be extended for multiple cities, longer forecast data, or integrated into dashboards.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/461faa35-c85f-4f6c-8fb4-c250978d3493)
 
