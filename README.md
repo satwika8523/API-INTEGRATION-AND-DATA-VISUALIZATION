@@ -117,14 +117,15 @@ Handling Error Responses: else: print(f'Response code is {response.status_code}'
 
 ->Weather is overcast clouds
 
-->Current Temperature is 29.36
+->Current Temperature is 28.37
 
-->Current Temperature Feels like is 29.36
+->Current Temperature Feels like is 33.22
 
-->Humidity is 83
+->Humidity is 81
 
 And a bar chart with three bars showing Temperature, Feels Like temperature, and Humidity.
 
 📌Summary This program effectively: Connects to an external API to get live data.Parses JSON weather data.Visualizes temperature and humidity parameters in an easy-to-understand bar chart.Such automation can be extended for multiple cities, longer forecast data, or integrated into dashboards.
 
 #OUTPUT:
+
